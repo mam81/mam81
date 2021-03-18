@@ -9,7 +9,7 @@
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 
-<p align="center"><img align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)</img></p>
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)</p>
 
 <p align="center">
  <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
