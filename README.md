@@ -31,8 +31,5 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)
-<p align="center"><img src="https://profile-counter.glitch.me/{mam81}/count.svg" alt="mam81 :: Visitor's Count" /></p>
-
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
