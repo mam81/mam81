@@ -2,10 +2,6 @@
 
 ### Hi 👋
 
-
-<p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
-<a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
-
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <p align="center">
@@ -30,6 +26,11 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
+
+
+<p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
+
+<a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
