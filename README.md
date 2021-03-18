@@ -4,10 +4,8 @@
 
 <p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
 
-<a align="center">
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo)
 <a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
-<a><br>
 
 <p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)<p>
 
