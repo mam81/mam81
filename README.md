@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
-
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo)
+[![Linkedin: matheusantunes](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo)
 <a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
 
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)<p>
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
+<img align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&show_icons=true)</img>
 
 <p align="center">
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
