@@ -2,7 +2,7 @@
 
 
 <p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
-[![Linkedin: matheusantunes](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo)
+<a href="www.linkedin.com/in/matheus-antunes-macedo"><[![Linkedin: matheusantunes](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo)</a>
 <a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
