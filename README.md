@@ -15,6 +15,7 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>				    
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/-Python?style=flat&logo=python&logoColor=white"> 
 </p><br>
 
 <p align="center">
