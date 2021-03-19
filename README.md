@@ -27,7 +27,7 @@
 
 <p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus-Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo) 
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
