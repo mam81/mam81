@@ -1,5 +1,5 @@
 
-# Hi Devs,i'm Matheus 👋😄
+## Hi Devs,i'm Matheus 👋😄
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -24,11 +24,11 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
 
-<img align="center" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px">
+<p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
 
 
-<p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
+ ####Connect with Me 🤝🏻
 
  [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo) 
 
