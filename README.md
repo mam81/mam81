@@ -26,12 +26,10 @@
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
-<p align="center">
- <p>🤝 Connect with Me:</p>
 
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo)
-</p>
+<p>🤝 Connect with Me:</p>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo)
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
