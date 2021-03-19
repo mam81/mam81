@@ -27,7 +27,7 @@
 
 <p align="center"><h3> 🤝🏻 Connect with Me </h3></p>
 
-<a href="mailto:matheusantunesmacedo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusantunesmacedo@gmail.com-blue?style=flat&logo=gmail"></a>
+ [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-antunes-macedo/)](www.linkedin.com/in/matheus-antunes-macedo) [![Gmail Badge](https://img.shields.io/badge/-matheusantunesmacedo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:matheusantunesmacedo@gmail.com)](mailto:matheusantunesmacedo@gmail.com)
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
