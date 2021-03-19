@@ -1,11 +1,9 @@
 
-<h1>Hi Devs,i'm Matheus 👋😄</h1>
+<h1>Hi Devs,i'm Matheus 👋😄 <img width="15%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /></h1>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<h4>🤝 Connect with Me</h4>
 
- <h4>🤝 Connect with Me</h4>
-
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo) 
+[![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo) 
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -30,7 +28,6 @@
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=F05032&labelColor=ffffff" alt="git"></a>
 <a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=black&labelColor=ffffff" alt="github"></a>
 </p>
-
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
 
