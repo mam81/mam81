@@ -1,6 +1,10 @@
 
 ## Hi Devs,i'm Matheus 👋😄
 
+ #### Connect with Me 🤝🏻
+
+ [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo) 
+
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 <p align="center">
@@ -26,11 +30,6 @@
 
 <p align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mam81&langs_count=10&theme=ayu-mirage&layout=compact" alt="mam81 :: Top Langs" /></p>
-
-
- #### Connect with Me 🤝🏻
-
- [![Linkedin Badge](https://img.shields.io/badge/-Matheus_Antunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-antunes-macedo)](https://www.linkedin.com/in/matheus-antunes-macedo) 
 
 ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
